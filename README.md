@@ -1,5 +1,5 @@
 # Breakout Project
-This is a software engineering report following the development of a horror-themed puzzle game written in Python which involves the player trying to escape
+This is a software engineering report following the development of a horror-themed puzzle game written in C# which involves the player trying to escape
 a maze puzzle utilizing keys and doors for restricted access.
 
 ## Report Consists of
